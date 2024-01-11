@@ -1,6 +1,6 @@
 =======
-# CS411 Project :computer:
-A4 group 11: Viktoria, Hasan, Mya
+# Dormmate Project :computer:
+Viktoria, Hasan, Mya
 
 ## *DormMate* :iphone: :mag_right: 🧑‍🤝‍🧑
 
